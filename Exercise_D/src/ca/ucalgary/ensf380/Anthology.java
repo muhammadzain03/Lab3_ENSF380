@@ -14,4 +14,5 @@ public class Anthology extends Fiction {
     public void setStory(Story[] stories) {
         this.story = stories;
     }
+    
 }

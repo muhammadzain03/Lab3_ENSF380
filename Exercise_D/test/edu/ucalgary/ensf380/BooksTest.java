@@ -17,12 +17,15 @@ import org.junit.rules.ExpectedException;
 The following are a selection of tests to get you started with checking your Books.java implementation. Feel free to add your own!
 */
 
+
 public class BooksTest{
     
     String isbn = "0987654321";
+
     int pages = 10;
 
 	public BooksTest(){
+
 	}
 
     @Test
